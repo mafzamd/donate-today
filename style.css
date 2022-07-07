@@ -1,0 +1,158 @@
+body{
+    width: 100%;
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+.one{
+    background-image: url(images/aid-work_opt.jpg);
+    background-repeat: no-repeat;
+    background-image: linear-gradient(to bottom white black);
+    background-size: cover;
+    height: 700px;
+}
+.sone{
+    width: 70%;
+    padding: 5%;
+    margin: auto;
+    color: black;
+}
+.mid{
+    margin: auto;
+    text-align: center;
+    color: rgb(157, 142, 123);
+}
+.one h1{
+    font-size: 20px;
+    font-weight: 700;
+}
+.one p{
+    font-size: 15px;
+    font-weight: 500;
+}
+.donate-button{
+    padding: 3px;
+    color: rgb(0, 0, 0);
+    background-image: linear-gradient(to right white grey);
+    border: 1px solid black;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.two h1{
+    font-size: 20px;
+    font-weight: 700;
+}
+.two p{
+    font-size: 15px;
+    color: gray;
+}
+.flexx{
+    
+    display: block;
+    margin: auto;
+}
+.flex{
+    text-decoration: none;
+    height: 60px;
+    width: 100px;
+    color: gray;
+}
+.flex:hover{
+        background-color: rgba(128, 128, 128, 0.228);
+        border: 2px solid orangered;  
+        height: 60px;
+        width: 100px;
+    }
+#num{
+    border: none;
+    border-bottom: 1px;
+    text-align: center;
+}
+.c-num{
+    padding: 3px;
+    color: rgb(0, 0, 0);
+    background-image: linear-gradient(to right white rgb(154, 0, 0));
+    border: 1px solid transparent;
+    border-radius: 5px;    
+    display: block;
+}
+.three h1{
+    font-size: 20px;
+    font-weight: 700;
+}
+.three p{
+    font-size: 15px;
+    color: gray;
+}
+.donate-plans{
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+
+.donate-plans{
+    text-transform: capitalize;
+    text-align: left;
+    width: 80%;
+    padding: 10px;
+    margin: auto;
+}
+.plan-description1{
+    padding: 30px 30px;
+    margin: 20px 20px;
+    box-shadow: 1px 3px 5px 5px black;
+    background-color: rgba(0, 255, 255, 0.155);
+}
+.plan-description2{
+    padding: 30px 30px;
+    margin: 20px 20px;
+    box-shadow: 1px 3px 5px 5px black;
+    background-color: rgba(165, 42, 42, 0.247);
+}
+.plan-description3{
+    padding: 30px 30px;
+    margin: 20px 20px;
+    box-shadow: 1px 3px 5px 5px black;
+    background-color: rgba(172, 255, 47, 0.217);
+}
+.four{
+    display: flex;
+}
+.left{
+    width: 80%;
+}
+.right{
+    width: 80%;
+    margin-right: auto;
+}
+.contribute-button{
+    padding: 3px;
+    color: white;
+    background-image: linear-gradient(to right white grey);
+    border: none;
+    border-radius: 5px;
+    text-transform: lowercase;
+}
+.update{
+    text-align: center;
+}
+.color{
+    background-color: rgb(186, 163, 85);
+    display: flex;
+    margin: auto;
+    padding: 10px 10px;
+}
+.footer{
+    width: 100%;
+    margin: auto;
+}
+.foot{
+    text-align: center;
+    margin: auto;
+    padding: 4px 4px;
+}
+
+
+
